@@ -1,2 +1,6 @@
 I learn how to add, commit text files on git.
 Dataset should be commit on github.
+
+git add stages your changes for commit.
+git commit saves the staged changes to your local Git repository.
+git push uploads your local commits to the remote repository (e.g., GitHub).
